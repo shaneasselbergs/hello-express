@@ -9,3 +9,7 @@ mkdir src
 echo "console.log('Hello, world!');" > src/index.js
 node src/index.js
 ```
+Install a dependency:
+```bash
+npm install express
+```
